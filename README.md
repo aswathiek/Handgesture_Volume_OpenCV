@@ -7,7 +7,8 @@ This is a basic project which helps in controlling volume of a system using hand
 
 
 
-Hardware Requirements: Camera/Webcam
+## Hardware Requirements
+1. Camera/Webcam
 ## Libraries used
 1. cv2
 2. mediapipe
